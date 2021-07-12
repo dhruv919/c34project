@@ -1,2 +1,1 @@
-# c34project
-made by dhruv gupta
+# Virtual Pet App
